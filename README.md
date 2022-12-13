@@ -8,7 +8,7 @@ updated remotely on master branch
 updated remotely second time
 updated locally third time
 updated remotely fourth time
-git pr
+git prtyuil
 
 git pull request
 
